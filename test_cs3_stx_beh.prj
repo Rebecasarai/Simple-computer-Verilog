@@ -1,0 +1,5 @@
+verilog isim_temp "UnidadDatos.v"
+verilog isim_temp "UnidadControl.v"
+verilog isim_temp "ComputadorSimple3.v"
+verilog isim_temp "test_cs3.v"
+verilog isim_temp "/opt/Xilinx/12.4/ISE_DS/ISE//verilog/src/glbl.v"
